@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          A dev URL in action.
+          A dev URL in action. Isn't Coder awesome?
         </p>
         <a
           className="App-link"
